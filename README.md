@@ -32,3 +32,8 @@ First to reach the winning score wins.
 
 Click New Game to restart.
 
+
+## Live Link of the game
+
+https://iammissmiller.github.io/DICE-GAME/
+
